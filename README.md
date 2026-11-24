@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UtsavPrajapati
 - 👀 I’m interested in ... Game Dev
-- 🌱 I’m currently learning ...Animation and modelling
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Programming, Animation and modelling
+- 💞️ I’m looking to collaborate on ... Video Games
 - 📫 How to reach me ...
 
 <!---
